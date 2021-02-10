@@ -1,0 +1,5 @@
+Burp Suite Download: https://portswigger.net/burp
+XAMPP Download: https://www.apachefriends.org/index.html
+DVWA Download: https://github.com/ethicalhack3r/DVWA
+Command Injection Wordlist: https://github.com/payloadbox/command-injection-payload-list
+Portswigger Labs: https://portswigger.net/web-security/all-labs
